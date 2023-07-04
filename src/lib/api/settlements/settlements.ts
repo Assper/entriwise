@@ -1,4 +1,4 @@
-// TODO: Use react API data instead of mock
+// TODO: Use real API data instead of mock
 import { firstDataset, secondDataset } from "./mocks";
 import type { SettlementApiResponse } from "./models";
 
