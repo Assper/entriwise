@@ -1,0 +1,23 @@
+:root {
+  --color-dark: #333;
+  --color-light: #efefef;
+  --color-lightgray: #ddd;
+  --color-danger: #e13b3b;
+  --color-warning: #e78b13;
+  --color-success: #21a52f;
+  --indent-small: 15px;
+  --indent-normal: 30px;
+
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color: var(--color-dark);
+  background-color: var(--color-light);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
